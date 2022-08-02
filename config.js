@@ -41,22 +41,22 @@ let wibh = moment.tz('Asia/Jakarta').format('HH')
     
 
 /*============== SOCIAL ==============*/
-global.sig = 'https://instagram.com/zalfapontianak'
-global.sgh = 'https://github.com/Botynyakamu'
-global.sgc = 'https://chat.whatsapp.com/I8Q4oJVw8buHhIgMH5iVAv'
-global.sdc = 'https://wa.me/message/LSVGQQPG6FUQF1'
-global.snh = 'https://youtube.com/channel/UCeUvY_fIVSAaQ1n5SAylI-A'
+global.sig = 'https://www.instagram.com/reysastore19/'
+global.sgh = 'https://github.com/RIFQIBOTZ'
+global.sgc = 'https://youtube.com/channel/UCdaoIPcUim61NIVnNziKU1A'
+global.sdc = 'https://wa.me/6288295136346'
+global.snh = 'https://youtube.com/channel/UCdaoIPcUim61NIVnNziKU1A'
 
 /*============== PAYMENT ==============*/
-global.pdana = '085828764046'
-global.povo = '085828764046'
-global.pgopay = '085828764046'
+global.pdana = '089613992918'
+global.povo = '0895619792384'
+global.pgopay = '089684271435'
 
 /*============== NOMOR ==============*/
-global.nomorbot = '6285787476829'
-global.nomorown = '6285828377610'
-global.namebot = '⳹ ❋ཻུ۪۪⸙Zifabotz-MD⳹ ❋ཻུ۪۪'
-global.nameown = 'ᴹᴿ᭄ ZifaOffcོ_1ঔৣ꧂'
+global.nomorbot = '6281376806044'
+global.nomorown = '6288295136346'
+global.namebot = 'ReysaCans'
+global.nameown = 'ReysaOfficialF1'
 
 
 /*============== STAFF ==============*/
@@ -109,9 +109,9 @@ global.APIKeys = { // APIKey Here
 
 
 /*============== WATERMARK ==============*/
-global.wm = '⳹ ❋ཻུ۪۪⸙Zifabotz-MD⳹ ❋ཻུ۪۪' //Main Watermark
-global.wm2 = '⳹ ❋ཻུ۪۪⸙Zifabotz-MD⳹ ❋ཻུ۪۪'
-global.wm3 = '⳹ ❋ཻུ۪۪⸙Zifabotz-MD⳹ ❋ཻུ۪۪'
+global.wm = 'ReysaCans' //Main Watermark
+global.wm2 = 'ReysaCans'
+global.wm3 = 'ReysaCans'
 global.botdate = `☘︎ 𝗗𝗮𝘁𝗲: ${week} ${date}\n☘︎ 𝗧𝗶𝗺𝗲: ${wktuwib}`
 global.bottime = `𝗧 𝗜 𝗠 𝗘 : ${wktuwib}`
 global.titlebot = `☘︎ 𝗪𝗵𝗮𝘁𝘀𝗮𝗽𝗽 𝗕𝗼𝘁 𝗠𝘂𝗹𝘁𝗶-𝗗𝗲𝘃𝗶𝗰𝗲| By ${global.nameown}`
@@ -119,10 +119,10 @@ global.author = '┄┄┄┅┅❑ ROZI ❑┅┅┄┄┄'
 
 
 /*============== LOGO ==============*/
-global.thumb = 'https://telegra.ph/file/3c83bc5fa0cbcdc6a1e75.jpg' //Main Thumbnail
-global.imagebot = 'https://telegra.ph/file/3c83bc5fa0cbcdc6a1e75.jpg'
-global.giflogo = 'https://telegra.ph/file/3c83bc5fa0cbcdc6a1e75.jpg'
-global.thumbs = ['https://telegra.ph/file/3c83bc5fa0cbcdc6a1e75.jpg', 'https://telegra.ph/file/3c83bc5fa0cbcdc6a1e75.jpg', 'https://telegra.ph/file/3c83bc5fa0cbcdc6a1e75.jpg']
+global.thumb = 'https://telegra.ph/file/5191fcee44a38d8c957b1.jpg' //Main Thumbnail
+global.imagebot = 'https://telegra.ph/file/5191fcee44a38d8c957b1.jpg'
+global.giflogo = 'https://telegra.ph/file/5191fcee44a38d8c957b1.jpg'
+global.thumbs = ['https://telegra.ph/file/5191fcee44a38d8c957b1.jpg', 'https://telegra.ph/file/5191fcee44a38d8c957b1.jpg', 'https://telegra.ph/file/5191fcee44a38d8c957b1.jpg']
 global.fla = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=sketch-name&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&fillTextType=1&fillTextPattern=Warning!&text='
 
 /*============== HENTAI ==============*/ //Ini cuma simpenan owner kanna kok :v
@@ -147,7 +147,7 @@ global.dxlsx = 'application/vnd.openxmlformats-officedocument.spreadsheetml.shee
 global.dpdf = 'application/pdf'
 global.drtf = 'text/rtf'
 
-global.thumbdoc = 'https://telegra.ph/file/3c83bc5fa0cbcdc6a1e75.jpg'
+global.thumbdoc = 'https://telegra.ph/file/5191fcee44a38d8c957b1.jpg'
 
 /*=========== FAKE SIZE ===========*/
 global.fsizedoc = '99999999999999' // default 10TB
