@@ -54,17 +54,17 @@ global.pgopay = '089684271435'
 
 /*============== NOMOR ==============*/
 global.nomorbot = '6289528415855'
-global.nomorown = '6289528415855'
+global.nomorown = '62895403376862'
 global.namebot = 'ReysaCans'
 global.nameown = 'ReysaOfficialF1'
 
 
 /*============== STAFF ==============*/
 global.owner = [
-  ['6289528415855'],
-  ['6289528415855'],
-  ['6289528415855'],
-  ['6289528415855', 'ReysaOfficialF1', true]
+  ['62895403376862'],
+  ['62895403376862'],
+  ['62895403376862'],
+  ['62895403376862', 'ReysaOfficialF1', true]
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
 global.mods = [] // Want some help?
